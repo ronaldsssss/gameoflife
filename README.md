@@ -4,7 +4,7 @@ license](https://img.shields.io/github/license/Zeta611/golpy?style=flat-square)]
 [![PyPI](https://img.shields.io/pypi/v/golpy?style=flat-square)](https://pypi.org/project/golpy/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square)](https://github.com/psf/black)
 
-GoLPy is an efficient Conway's Game of Life implemented in Python using NumPy. 
+GoLPy is an efficient Conway's Game of Life implemented in Python using NumPy. Nice!!
 
 ## Example Output
 The following GIF can be generated using the command:
